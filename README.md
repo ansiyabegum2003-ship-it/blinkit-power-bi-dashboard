@@ -32,3 +32,13 @@ Download `Blinkit Project.pbix` from this repository and open it using Microsoft
 Ansiya Begum
 
 Aspiring HR Analytics and Power BI Professional
+## Dashboard Previews
+
+### 1. Sales Performance Dashboard
+![Sales Performance Dashboard](Sales%20Inventory%20Dashboard)
+
+### 2. Product Performance Dashboard
+![Product Performance Dashboard](Product%20Performance%20Dashboard)
+
+### 3. Inventory & Restocking Analysis
+![Inventory Restocking Analysis](Inventory%20Restocking%20Analysis)
